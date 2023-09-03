@@ -3,9 +3,6 @@
 This project aims to predict the risk of heart attack based on several factors such as age, sex, blood pressure, cholesterol levels, and other characteristic attributes.
 
 ## Context:
-
-<h4> Heart Attack Analysis & Prediction Dataset <h4>
-
 <h5> Heart attack is a leading cause of death in most countries, along with stroke and cancer. It occurs when an artery supplying your heart with blood and oxygen becomes blocked. Fatty deposits build up over time, forming plaques in your heart's arteries. If a plaque ruptures, a blood clot can form and block your arteries, causing a heart attack. <h5>
 
 <h4> This dataset contains information about people and their heart conditions. <h4>
