@@ -13,7 +13,7 @@ The data used in this project is sourced from the [Heart Disease UCI dataset](ht
 
 ## Methodology
 
-The project uses Random Forest, KNN, SVC and Naive  to predict the risk of heart attack. 
+The project uses Random Forest, KNN, SVC, and Naive algorithms to predict the risk of heart attack. 
 
 ## Results
 
